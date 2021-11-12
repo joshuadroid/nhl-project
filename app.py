@@ -69,7 +69,7 @@ def data():
 
 
 @app.route("/help")
-def welcome():
+def help():
     """List all available api routes."""
     return (
         f"Available Routes:<br/>"
