@@ -55,7 +55,7 @@ db = SQLAlchemy(app)
 # Flask Routes
 #################################################
 
-@app.route("/")
+@app.route("/index.html")
 def home():
     return render_template("index.html")
 
