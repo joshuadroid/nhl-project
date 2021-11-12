@@ -1,0 +1,581 @@
+"season","team_id_for","short_name","team_name","goal_count","season_rank"
+"2000","1","New Jersey","Devils",293,1
+"2000","5","Pittsburgh","Penguins",271,2
+"2000","21","Colorado","Avalanche",263,3
+"2000","9","Ottawa","Senators",258,4
+"2000","17","Detroit","Red Wings",253,5
+"2000","26","Los Angeles","Kings",252,6
+"2000","3","NY Rangers","Rangers",248,7
+"2000","19","St Louis","Blues",243,8
+"2000","22","Edmonton","Oilers",238,9
+"2000","25","Dallas","Stars",237,10
+"2000","23","Vancouver","Canucks",235,11
+"2000","4","Philadelphia","Flyers",229,12
+"2000","6","Boston","Bruins",227,13
+"2000","10","Toronto","Maple Leafs",225,14
+"2000","15","Washington","Capitals",223,15
+"2000","28","San Jose","Sharks",217,16
+"2000","7","Buffalo","Sabres",215,17
+"2000","27","Phoenix","Coyotes",207,18
+"2000","16","Chicago","Blackhawks",206,19
+"2000","12","Carolina","Hurricanes",203,20
+"2000","13","Florida","Panthers",200,21
+"2000","11","Atlanta","Thrashers",199,22
+"2000","8","Montreal","Canadiens",198,23
+"2000","20","Calgary","Flames",197,24
+"2000","14","Tampa Bay","Lightning",197,24
+"2000","18","Nashville","Predators",186,26
+"2000","24","Anaheim","Ducks",184,27
+"2000","29","Columbus","Blue Jackets",181,28
+"2000","2","NY Islanders","Islanders",180,29
+"2000","30","Minnesota","Wild",168,30
+"2001","17","Detroit","Red Wings",251,1
+"2001","10","Toronto","Maple Leafs",248,2
+"2001","9","Ottawa","Senators",241,3
+"2001","23","Vancouver","Canucks",236,4
+"2001","4","Philadelphia","Flyers",234,5
+"2001","28","San Jose","Sharks",234,5
+"2001","6","Boston","Bruins",233,7
+"2001","2","NY Islanders","Islanders",231,8
+"2001","27","Phoenix","Coyotes",228,9
+"2001","19","St Louis","Blues",223,10
+"2001","3","NY Rangers","Rangers",222,11
+"2001","26","Los Angeles","Kings",212,12
+"2001","7","Buffalo","Sabres",210,13
+"2001","12","Carolina","Hurricanes",208,14
+"2001","16","Chicago","Blackhawks",208,14
+"2001","21","Colorado","Avalanche",207,16
+"2001","25","Dallas","Stars",207,16
+"2001","15","Washington","Capitals",203,18
+"2001","8","Montreal","Canadiens",203,18
+"2001","22","Edmonton","Oilers",201,20
+"2001","1","New Jersey","Devils",199,21
+"2001","5","Pittsburgh","Penguins",198,22
+"2001","20","Calgary","Flames",198,22
+"2001","30","Minnesota","Wild",193,24
+"2001","18","Nashville","Predators",193,24
+"2001","11","Atlanta","Thrashers",182,26
+"2001","13","Florida","Panthers",172,27
+"2001","14","Tampa Bay","Lightning",167,28
+"2001","24","Anaheim","Ducks",167,28
+"2001","29","Columbus","Blue Jackets",157,30
+"2002","17","Detroit","Red Wings",269,1
+"2002","9","Ottawa","Senators",258,2
+"2002","23","Vancouver","Canucks",256,3
+"2002","19","St Louis","Blues",247,4
+"2002","25","Dallas","Stars",241,5
+"2002","6","Boston","Bruins",235,6
+"2002","10","Toronto","Maple Leafs",234,7
+"2002","21","Colorado","Avalanche",231,8
+"2002","22","Edmonton","Oilers",228,9
+"2002","11","Atlanta","Thrashers",222,10
+"2002","2","NY Islanders","Islanders",216,11
+"2002","15","Washington","Capitals",212,12
+"2002","14","Tampa Bay","Lightning",211,13
+"2002","29","Columbus","Blue Jackets",208,14
+"2002","28","San Jose","Sharks",207,15
+"2002","4","Philadelphia","Flyers",206,16
+"2002","1","New Jersey","Devils",205,17
+"2002","3","NY Rangers","Rangers",202,18
+"2002","24","Anaheim","Ducks",199,19
+"2002","16","Chicago","Blackhawks",198,20
+"2002","30","Minnesota","Wild",196,21
+"2002","26","Los Angeles","Kings",195,22
+"2002","8","Montreal","Canadiens",194,23
+"2002","27","Phoenix","Coyotes",188,24
+"2002","20","Calgary","Flames",183,25
+"2002","18","Nashville","Predators",183,25
+"2002","7","Buffalo","Sabres",181,27
+"2002","5","Pittsburgh","Penguins",178,28
+"2002","13","Florida","Panthers",176,29
+"2002","12","Carolina","Hurricanes",168,30
+"2003","9","Ottawa","Senators",260,1
+"2003","17","Detroit","Red Wings",242,2
+"2003","10","Toronto","Maple Leafs",239,3
+"2003","14","Tampa Bay","Lightning",238,4
+"2003","21","Colorado","Avalanche",236,5
+"2003","23","Vancouver","Canucks",235,6
+"2003","2","NY Islanders","Islanders",232,7
+"2003","4","Philadelphia","Flyers",224,8
+"2003","22","Edmonton","Oilers",221,9
+"2003","18","Nashville","Predators",216,10
+"2003","7","Buffalo","Sabres",214,11
+"2003","1","New Jersey","Devils",210,12
+"2003","8","Montreal","Canadiens",208,13
+"2003","11","Atlanta","Thrashers",208,13
+"2003","6","Boston","Bruins",207,15
+"2003","3","NY Rangers","Rangers",206,16
+"2003","28","San Jose","Sharks",206,16
+"2003","26","Los Angeles","Kings",202,18
+"2003","20","Calgary","Flames",200,19
+"2003","25","Dallas","Stars",194,20
+"2003","15","Washington","Capitals",186,21
+"2003","13","Florida","Panthers",185,22
+"2003","19","St Louis","Blues",185,22
+"2003","27","Phoenix","Coyotes",183,24
+"2003","5","Pittsburgh","Penguins",181,25
+"2003","16","Chicago","Blackhawks",181,25
+"2003","30","Minnesota","Wild",179,27
+"2003","24","Anaheim","Ducks",178,28
+"2003","29","Columbus","Blue Jackets",175,29
+"2003","12","Carolina","Hurricanes",170,30
+"2005","17","Detroit","Red Wings",313,1
+"2005","9","Ottawa","Senators",302,2
+"2005","12","Carolina","Hurricanes",300,3
+"2005","11","Atlanta","Thrashers",285,4
+"2005","7","Buffalo","Sabres",283,5
+"2005","21","Colorado","Avalanche",283,5
+"2005","25","Dallas","Stars",273,7
+"2005","4","Philadelphia","Flyers",271,8
+"2005","28","San Jose","Sharks",271,8
+"2005","22","Edmonton","Oilers",268,10
+"2005","24","Anaheim","Ducks",255,11
+"2005","18","Nashville","Predators",255,11
+"2005","10","Toronto","Maple Leafs",254,13
+"2005","23","Vancouver","Canucks",252,14
+"2005","3","NY Rangers","Rangers",250,15
+"2005","14","Tampa Bay","Lightning",250,15
+"2005","5","Pittsburgh","Penguins",249,17
+"2005","26","Los Angeles","Kings",249,17
+"2005","15","Washington","Capitals",246,19
+"2005","27","Phoenix","Coyotes",244,20
+"2005","1","New Jersey","Devils",243,21
+"2005","8","Montreal","Canadiens",238,22
+"2005","6","Boston","Bruins",234,23
+"2005","2","NY Islanders","Islanders",231,24
+"2005","29","Columbus","Blue Jackets",230,25
+"2005","13","Florida","Panthers",227,26
+"2005","30","Minnesota","Wild",225,27
+"2005","20","Calgary","Flames",217,28
+"2005","16","Chicago","Blackhawks",216,29
+"2005","19","St Louis","Blues",203,30
+"2006","7","Buffalo","Sabres",311,1
+"2006","9","Ottawa","Senators",287,2
+"2006","21","Colorado","Avalanche",279,3
+"2006","5","Pittsburgh","Penguins",277,4
+"2006","18","Nashville","Predators",276,5
+"2006","24","Anaheim","Ducks",266,6
+"2006","10","Toronto","Maple Leafs",262,7
+"2006","17","Detroit","Red Wings",262,7
+"2006","20","Calgary","Flames",261,9
+"2006","28","San Jose","Sharks",259,10
+"2006","2","NY Islanders","Islanders",254,11
+"2006","11","Atlanta","Thrashers",251,12
+"2006","8","Montreal","Canadiens",251,12
+"2006","14","Tampa Bay","Lightning",249,14
+"2006","13","Florida","Panthers",249,14
+"2006","30","Minnesota","Wild",248,16
+"2006","3","NY Rangers","Rangers",248,16
+"2006","26","Los Angeles","Kings",241,18
+"2006","15","Washington","Capitals",237,19
+"2006","12","Carolina","Hurricanes",236,20
+"2006","23","Vancouver","Canucks",232,21
+"2006","25","Dallas","Stars",229,22
+"2006","6","Boston","Bruins",228,23
+"2006","1","New Jersey","Devils",220,24
+"2006","27","Phoenix","Coyotes",216,25
+"2006","19","St Louis","Blues",216,25
+"2006","16","Chicago","Blackhawks",212,27
+"2006","4","Philadelphia","Flyers",210,28
+"2006","29","Columbus","Blue Jackets",200,29
+"2006","22","Edmonton","Oilers",198,30
+"2007","9","Ottawa","Senators",264,1
+"2007","17","Detroit","Red Wings",260,2
+"2007","8","Montreal","Canadiens",257,3
+"2007","4","Philadelphia","Flyers",255,4
+"2007","12","Carolina","Hurricanes",251,5
+"2007","7","Buffalo","Sabres",246,6
+"2007","15","Washington","Capitals",245,7
+"2007","5","Pittsburgh","Penguins",245,7
+"2007","22","Edmonton","Oilers",244,9
+"2007","25","Dallas","Stars",244,9
+"2007","16","Chicago","Blackhawks",241,11
+"2007","21","Colorado","Avalanche",239,12
+"2007","28","San Jose","Sharks",234,13
+"2007","10","Toronto","Maple Leafs",233,14
+"2007","26","Los Angeles","Kings",229,15
+"2007","18","Nashville","Predators",226,16
+"2007","20","Calgary","Flames",225,17
+"2007","11","Atlanta","Thrashers",224,18
+"2007","30","Minnesota","Wild",224,18
+"2007","27","Phoenix","Coyotes",221,20
+"2007","14","Tampa Bay","Lightning",221,20
+"2007","23","Vancouver","Canucks",220,22
+"2007","13","Florida","Panthers",220,22
+"2007","3","NY Rangers","Rangers",217,24
+"2007","6","Boston","Bruins",209,25
+"2007","1","New Jersey","Devils",209,25
+"2007","24","Anaheim","Ducks",209,25
+"2007","2","NY Islanders","Islanders",197,28
+"2007","29","Columbus","Blue Jackets",196,29
+"2007","19","St Louis","Blues",195,30
+"2008","17","Detroit","Red Wings",302,1
+"2008","6","Boston","Bruins",271,2
+"2008","15","Washington","Capitals",270,3
+"2008","16","Chicago","Blackhawks",268,4
+"2008","4","Philadelphia","Flyers",265,5
+"2008","5","Pittsburgh","Penguins",264,6
+"2008","7","Buffalo","Sabres",259,7
+"2008","28","San Jose","Sharks",259,7
+"2008","11","Atlanta","Thrashers",259,7
+"2008","8","Montreal","Canadiens",254,10
+"2008","24","Anaheim","Ducks",252,11
+"2008","10","Toronto","Maple Leafs",251,12
+"2008","1","New Jersey","Devils",250,13
+"2008","20","Calgary","Flames",250,13
+"2008","23","Vancouver","Canucks",243,15
+"2008","25","Dallas","Stars",243,15
+"2008","22","Edmonton","Oilers",239,17
+"2008","12","Carolina","Hurricanes",236,18
+"2008","19","St Louis","Blues",236,18
+"2008","13","Florida","Panthers",231,20
+"2008","9","Ottawa","Senators",226,21
+"2008","3","NY Rangers","Rangers",219,22
+"2008","30","Minnesota","Wild",219,22
+"2008","14","Tampa Bay","Lightning",218,24
+"2008","18","Nashville","Predators",218,24
+"2008","27","Phoenix","Coyotes",215,26
+"2008","26","Los Angeles","Kings",211,27
+"2008","29","Columbus","Blue Jackets",210,28
+"2008","21","Colorado","Avalanche",206,29
+"2008","2","NY Islanders","Islanders",203,30
+"2009","15","Washington","Capitals",326,1
+"2009","23","Vancouver","Canucks",277,2
+"2009","16","Chicago","Blackhawks",274,3
+"2009","28","San Jose","Sharks",269,4
+"2009","5","Pittsburgh","Penguins",264,5
+"2009","26","Los Angeles","Kings",258,6
+"2009","21","Colorado","Avalanche",255,7
+"2009","27","Phoenix","Coyotes",245,8
+"2009","7","Buffalo","Sabres",244,9
+"2009","17","Detroit","Red Wings",242,10
+"2009","11","Atlanta","Thrashers",240,11
+"2009","25","Dallas","Stars",239,12
+"2009","4","Philadelphia","Flyers",239,12
+"2009","24","Anaheim","Ducks",238,14
+"2009","18","Nashville","Predators",235,15
+"2009","12","Carolina","Hurricanes",235,15
+"2009","9","Ottawa","Senators",233,17
+"2009","2","NY Islanders","Islanders",232,18
+"2009","19","St Louis","Blues",222,19
+"2009","8","Montreal","Canadiens",221,20
+"2009","30","Minnesota","Wild",221,20
+"2009","10","Toronto","Maple Leafs",219,22
+"2009","3","NY Rangers","Rangers",219,22
+"2009","22","Edmonton","Oilers",217,24
+"2009","13","Florida","Panthers",217,24
+"2009","14","Tampa Bay","Lightning",216,26
+"2009","6","Boston","Bruins",215,27
+"2009","29","Columbus","Blue Jackets",213,28
+"2009","1","New Jersey","Devils",213,28
+"2009","20","Calgary","Flames",211,30
+"2010","6","Boston","Bruins",327,1
+"2010","23","Vancouver","Canucks",323,2
+"2010","28","San Jose","Sharks",298,3
+"2010","14","Tampa Bay","Lightning",298,3
+"2010","17","Detroit","Red Wings",293,5
+"2010","4","Philadelphia","Flyers",281,6
+"2010","7","Buffalo","Sabres",270,7
+"2010","16","Chicago","Blackhawks",270,7
+"2010","5","Pittsburgh","Penguins",257,9
+"2010","20","Calgary","Flames",256,10
+"2010","15","Washington","Capitals",251,11
+"2010","18","Nashville","Predators",249,12
+"2010","24","Anaheim","Ducks",249,12
+"2010","26","Los Angeles","Kings",242,14
+"2010","3","NY Rangers","Rangers",241,15
+"2010","27","Phoenix","Coyotes",240,16
+"2010","12","Carolina","Hurricanes",239,17
+"2010","19","St Louis","Blues",238,18
+"2010","25","Dallas","Stars",237,19
+"2010","2","NY Islanders","Islanders",232,20
+"2010","8","Montreal","Canadiens",230,21
+"2010","10","Toronto","Maple Leafs",225,22
+"2010","11","Atlanta","Thrashers",223,23
+"2010","29","Columbus","Blue Jackets",221,24
+"2010","21","Colorado","Avalanche",219,25
+"2010","30","Minnesota","Wild",210,26
+"2010","13","Florida","Panthers",198,27
+"2010","22","Edmonton","Oilers",194,28
+"2010","9","Ottawa","Senators",190,29
+"2010","1","New Jersey","Devils",175,30
+"2011","5","Pittsburgh","Penguins",316,1
+"2011","4","Philadelphia","Flyers",314,2
+"2011","1","New Jersey","Devils",289,3
+"2011","6","Boston","Bruins",287,4
+"2011","3","NY Rangers","Rangers",271,5
+"2011","27","Phoenix","Coyotes",267,6
+"2011","23","Vancouver","Canucks",267,6
+"2011","9","Ottawa","Senators",264,8
+"2011","17","Detroit","Red Wings",263,9
+"2011","18","Nashville","Predators",256,10
+"2011","16","Chicago","Blackhawks",255,11
+"2011","26","Los Angeles","Kings",254,12
+"2011","15","Washington","Capitals",249,13
+"2011","28","San Jose","Sharks",243,14
+"2011","19","St Louis","Blues",232,15
+"2011","10","Toronto","Maple Leafs",232,15
+"2011","52","Winnipeg","Jets",231,17
+"2011","13","Florida","Panthers",224,18
+"2011","22","Edmonton","Oilers",223,19
+"2011","7","Buffalo","Sabres",223,19
+"2011","14","Tampa Bay","Lightning",222,21
+"2011","8","Montreal","Canadiens",216,22
+"2011","24","Anaheim","Ducks",211,23
+"2011","21","Colorado","Avalanche",211,23
+"2011","12","Carolina","Hurricanes",209,25
+"2011","25","Dallas","Stars",209,25
+"2011","20","Calgary","Flames",204,27
+"2011","29","Columbus","Blue Jackets",201,28
+"2011","2","NY Islanders","Islanders",200,29
+"2011","30","Minnesota","Wild",190,30
+"2012","16","Chicago","Blackhawks",229,1
+"2012","5","Pittsburgh","Penguins",217,2
+"2012","6","Boston","Bruins",196,3
+"2012","26","Los Angeles","Kings",177,4
+"2012","24","Anaheim","Ducks",170,5
+"2012","10","Toronto","Maple Leafs",162,6
+"2012","15","Washington","Capitals",161,7
+"2012","8","Montreal","Canadiens",161,7
+"2012","3","NY Rangers","Rangers",160,9
+"2012","2","NY Islanders","Islanders",160,9
+"2012","28","San Jose","Sharks",154,11
+"2012","17","Detroit","Red Wings",150,12
+"2012","9","Ottawa","Senators",149,13
+"2012","19","St Louis","Blues",148,14
+"2012","14","Tampa Bay","Lightning",141,15
+"2012","23","Vancouver","Canucks",136,16
+"2012","25","Dallas","Stars",131,17
+"2012","4","Philadelphia","Flyers",130,18
+"2012","7","Buffalo","Sabres",130,18
+"2012","20","Calgary","Flames",130,18
+"2012","52","Winnipeg","Jets",129,21
+"2012","27","Phoenix","Coyotes",129,21
+"2012","29","Columbus","Blue Jackets",126,23
+"2012","22","Edmonton","Oilers",126,23
+"2012","30","Minnesota","Wild",125,25
+"2012","12","Carolina","Hurricanes",122,26
+"2012","21","Colorado","Avalanche",120,27
+"2012","18","Nashville","Predators",117,28
+"2012","1","New Jersey","Devils",114,29
+"2012","13","Florida","Panthers",111,30
+"2013","16","Chicago","Blackhawks",332,1
+"2013","24","Anaheim","Ducks",307,2
+"2013","6","Boston","Bruins",295,3
+"2013","26","Los Angeles","Kings",295,3
+"2013","3","NY Rangers","Rangers",284,5
+"2013","28","San Jose","Sharks",283,6
+"2013","5","Pittsburgh","Penguins",278,7
+"2013","19","St Louis","Blues",274,8
+"2013","21","Colorado","Avalanche",269,9
+"2013","8","Montreal","Canadiens",267,10
+"2013","25","Dallas","Stars",258,11
+"2013","14","Tampa Bay","Lightning",257,12
+"2013","4","Philadelphia","Flyers",255,13
+"2013","29","Columbus","Blue Jackets",251,14
+"2013","30","Minnesota","Wild",250,15
+"2013","15","Washington","Capitals",242,16
+"2013","9","Ottawa","Senators",240,17
+"2013","52","Winnipeg","Jets",235,18
+"2013","10","Toronto","Maple Leafs",231,19
+"2013","17","Detroit","Red Wings",231,19
+"2013","27","Phoenix","Coyotes",226,21
+"2013","2","NY Islanders","Islanders",225,22
+"2013","18","Nashville","Predators",222,23
+"2013","20","Calgary","Flames",212,24
+"2013","22","Edmonton","Oilers",204,25
+"2013","12","Carolina","Hurricanes",203,26
+"2013","13","Florida","Panthers",202,27
+"2013","1","New Jersey","Devils",192,28
+"2013","23","Vancouver","Canucks",191,29
+"2013","7","Buffalo","Sabres",166,30
+"2014","14","Tampa Bay","Lightning",315,1
+"2014","16","Chicago","Blackhawks",302,2
+"2014","24","Anaheim","Ducks",299,3
+"2014","3","NY Rangers","Rangers",298,4
+"2014","15","Washington","Capitals",279,5
+"2014","2","NY Islanders","Islanders",273,6
+"2014","20","Calgary","Flames",266,7
+"2014","30","Minnesota","Wild",261,8
+"2014","17","Detroit","Red Wings",259,9
+"2014","23","Vancouver","Canucks",257,10
+"2014","19","St Louis","Blues",257,10
+"2014","18","Nashville","Predators",256,12
+"2014","9","Ottawa","Senators",255,13
+"2014","25","Dallas","Stars",251,14
+"2014","8","Montreal","Canadiens",248,15
+"2014","52","Winnipeg","Jets",241,16
+"2014","29","Columbus","Blue Jackets",238,17
+"2014","5","Pittsburgh","Penguins",237,18
+"2014","21","Colorado","Avalanche",232,19
+"2014","28","San Jose","Sharks",230,20
+"2014","4","Philadelphia","Flyers",219,21
+"2014","26","Los Angeles","Kings",219,21
+"2014","6","Boston","Bruins",217,23
+"2014","13","Florida","Panthers",214,24
+"2014","10","Toronto","Maple Leafs",209,25
+"2014","22","Edmonton","Oilers",198,26
+"2014","12","Carolina","Hurricanes",191,27
+"2014","1","New Jersey","Devils",187,28
+"2014","53","Arizona","Coyotes",169,29
+"2014","7","Buffalo","Sabres",166,30
+"2015","28","San Jose","Sharks",319,1
+"2015","5","Pittsburgh","Penguins",319,1
+"2015","25","Dallas","Stars",299,3
+"2015","19","St Louis","Blues",289,4
+"2015","15","Washington","Capitals",274,5
+"2015","14","Tampa Bay","Lightning",272,6
+"2015","13","Florida","Panthers",255,7
+"2015","18","Nashville","Predators",253,8
+"2015","2","NY Islanders","Islanders",251,9
+"2015","16","Chicago","Blackhawks",250,10
+"2015","3","NY Rangers","Rangers",241,11
+"2015","24","Anaheim","Ducks",240,12
+"2015","9","Ottawa","Senators",239,13
+"2015","26","Los Angeles","Kings",236,14
+"2015","30","Minnesota","Wild",232,15
+"2015","6","Boston","Bruins",230,16
+"2015","4","Philadelphia","Flyers",222,17
+"2015","17","Detroit","Red Wings",217,18
+"2015","52","Winnipeg","Jets",216,19
+"2015","21","Colorado","Avalanche",215,20
+"2015","8","Montreal","Canadiens",212,21
+"2015","29","Columbus","Blue Jackets",211,22
+"2015","20","Calgary","Flames",209,23
+"2015","53","Arizona","Coyotes",204,24
+"2015","22","Edmonton","Oilers",203,25
+"2015","7","Buffalo","Sabres",202,26
+"2015","10","Toronto","Maple Leafs",196,27
+"2015","12","Carolina","Hurricanes",196,27
+"2015","23","Vancouver","Canucks",191,29
+"2015","1","New Jersey","Devils",189,30
+"2016","5","Pittsburgh","Penguins",347,1
+"2016","15","Washington","Capitals",301,2
+"2016","3","NY Rangers","Rangers",294,3
+"2016","18","Nashville","Predators",292,4
+"2016","22","Edmonton","Oilers",284,5
+"2016","24","Anaheim","Ducks",282,6
+"2016","30","Minnesota","Wild",279,7
+"2016","10","Toronto","Maple Leafs",271,8
+"2016","19","St Louis","Blues",258,9
+"2016","29","Columbus","Blue Jackets",254,10
+"2016","16","Chicago","Blackhawks",251,11
+"2016","6","Boston","Bruins",251,11
+"2016","52","Winnipeg","Jets",246,13
+"2016","9","Ottawa","Senators",245,14
+"2016","8","Montreal","Canadiens",242,15
+"2016","14","Tampa Bay","Lightning",241,16
+"2016","2","NY Islanders","Islanders",235,17
+"2016","20","Calgary","Flames",233,18
+"2016","28","San Jose","Sharks",229,19
+"2016","25","Dallas","Stars",226,20
+"2016","12","Carolina","Hurricanes",220,21
+"2016","4","Philadelphia","Flyers",219,22
+"2016","17","Detroit","Red Wings",213,23
+"2016","13","Florida","Panthers",211,24
+"2016","7","Buffalo","Sabres",202,25
+"2016","26","Los Angeles","Kings",198,26
+"2016","53","Arizona","Coyotes",196,27
+"2016","1","New Jersey","Devils",186,28
+"2016","23","Vancouver","Canucks",178,29
+"2016","21","Colorado","Avalanche",167,30
+"2017","14","Tampa Bay","Lightning",343,1
+"2017","15","Washington","Capitals",341,2
+"2017","54","Vegas","Golden Knights",327,3
+"2017","52","Winnipeg","Jets",327,3
+"2017","5","Pittsburgh","Penguins",317,5
+"2017","6","Boston","Bruins",315,6
+"2017","18","Nashville","Predators",309,7
+"2017","10","Toronto","Maple Leafs",291,8
+"2017","28","San Jose","Sharks",287,9
+"2017","4","Philadelphia","Flyers",267,10
+"2017","21","Colorado","Avalanche",266,11
+"2017","2","NY Islanders","Islanders",262,12
+"2017","29","Columbus","Blue Jackets",261,13
+"2017","30","Minnesota","Wild",257,14
+"2017","1","New Jersey","Devils",252,15
+"2017","26","Los Angeles","Kings",245,16
+"2017","13","Florida","Panthers",242,17
+"2017","24","Anaheim","Ducks",239,18
+"2017","3","NY Rangers","Rangers",235,19
+"2017","22","Edmonton","Oilers",231,20
+"2017","12","Carolina","Hurricanes",228,21
+"2017","25","Dallas","Stars",226,22
+"2017","16","Chicago","Blackhawks",225,23
+"2017","9","Ottawa","Senators",225,23
+"2017","19","St Louis","Blues",224,25
+"2017","20","Calgary","Flames",223,26
+"2017","23","Vancouver","Canucks",219,27
+"2017","17","Detroit","Red Wings",214,28
+"2017","8","Montreal","Canadiens",206,29
+"2017","53","Arizona","Coyotes",204,30
+"2017","7","Buffalo","Sabres",184,31
+"2018","28","San Jose","Sharks",347,1
+"2018","6","Boston","Bruins",341,2
+"2018","14","Tampa Bay","Lightning",339,3
+"2018","19","St Louis","Blues",326,4
+"2018","15","Washington","Capitals",305,5
+"2018","10","Toronto","Maple Leafs",304,6
+"2018","20","Calgary","Flames",303,7
+"2018","21","Colorado","Avalanche",297,8
+"2018","29","Columbus","Blue Jackets",291,9
+"2018","52","Winnipeg","Jets",291,9
+"2018","12","Carolina","Hurricanes",285,11
+"2018","5","Pittsburgh","Penguins",280,12
+"2018","54","Vegas","Golden Knights",275,13
+"2018","16","Chicago","Blackhawks",273,14
+"2018","13","Florida","Panthers",273,14
+"2018","18","Nashville","Predators",256,16
+"2018","8","Montreal","Canadiens",251,17
+"2018","2","NY Islanders","Islanders",249,18
+"2018","4","Philadelphia","Flyers",247,19
+"2018","25","Dallas","Stars",246,20
+"2018","9","Ottawa","Senators",242,21
+"2018","22","Edmonton","Oilers",237,22
+"2018","3","NY Rangers","Rangers",237,22
+"2018","7","Buffalo","Sabres",233,24
+"2018","23","Vancouver","Canucks",229,25
+"2018","17","Detroit","Red Wings",229,25
+"2018","1","New Jersey","Devils",226,27
+"2018","53","Arizona","Coyotes",217,28
+"2018","30","Minnesota","Wild",212,29
+"2018","26","Los Angeles","Kings",208,30
+"2018","24","Anaheim","Ducks",201,31
+"2018","88",NULL,NULL,17,32
+"2018","89",NULL,NULL,5,33
+"2018","87",NULL,NULL,4,34
+"2019","14","Tampa Bay","Lightning",326,1
+"2019","21","Colorado","Avalanche",297,2
+"2019","54","Vegas","Golden Knights",289,3
+"2019","23","Vancouver","Canucks",281,4
+"2019","4","Philadelphia","Flyers",274,5
+"2019","25","Dallas","Stars",263,6
+"2019","2","NY Islanders","Islanders",263,6
+"2019","15","Washington","Capitals",260,8
+"2019","6","Boston","Bruins",260,8
+"2019","10","Toronto","Maple Leafs",253,10
+"2019","19","St Louis","Blues",249,11
+"2019","12","Carolina","Hurricanes",248,12
+"2019","16","Chicago","Blackhawks",247,13
+"2019","20","Calgary","Flames",246,14
+"2019","3","NY Rangers","Rangers",241,15
+"2019","22","Edmonton","Oilers",240,16
+"2019","13","Florida","Panthers",240,16
+"2019","8","Montreal","Canadiens",236,18
+"2019","30","Minnesota","Wild",235,19
+"2019","5","Pittsburgh","Penguins",234,20
+"2019","18","Nashville","Predators",231,21
+"2019","52","Winnipeg","Jets",228,22
+"2019","53","Arizona","Coyotes",223,23
+"2019","29","Columbus","Blue Jackets",208,24
+"2019","1","New Jersey","Devils",197,25
+"2019","7","Buffalo","Sabres",197,25
+"2019","9","Ottawa","Senators",193,27
+"2019","24","Anaheim","Ducks",193,27
+"2019","28","San Jose","Sharks",182,29
+"2019","26","Los Angeles","Kings",180,30
+"2019","17","Detroit","Red Wings",147,31
+"2019","90",NULL,NULL,15,32
+"2019","87",NULL,NULL,13,33
+"2019","88",NULL,NULL,5,34
+"2019","89",NULL,NULL,5,34

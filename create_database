@@ -1,0 +1,55 @@
+DROP TABLE IF EXISTS game_teams_stats;
+CREATE TABLE game_teams_stats (
+	game_id INT NOT NULL,
+    team_id INT NOT NULL,
+    hoa VARCHAR(5) NULL,
+    won VARCHAR(5) NULL,
+    settled_in VARCHAR(5) NULL,
+    head_coach VARCHAR(40) NULL,
+	goals VARCHAR NULL,
+    shots VARCHAR NULL,
+    hits VARCHAR NULL,
+    pim VARCHAR NULL,
+    powerplay_opportunities VARCHAR NULL,
+    powerplay_goals VARCHAR NULL,
+    faceoff_win_percentage VARCHAR NULL,
+    giveaways VARCHAR NULL,
+    takeaways VARCHAR NULL,
+	blocked_ VARCHAR NULL,
+	startRinkSide VARCHAR NULL
+);
+
+DROP TABLE IF EXISTS game_skater_stats;
+CREATE TABLE game_skater_stats (
+	game_id INT NOT NULL,
+    player_id INT NOT NULL,
+    team_id INT NOT NULL,
+    time_on_ice INT NULL,
+    assists VARCHAR NULL,
+    goals VARCHAR NULL,
+    shots VARCHAR NULL,
+    hits VARCHAR NULL,
+    power_play_goals INT NULL,
+    power_play_assists INT NULL,
+    penality_minutes INT NULL,
+    faceoff_wins INT NULL,
+    faceoff_taken INT NULL,
+    takeaways VARCHAR NULL,
+    giveaways VARCHAR NULL,
+    short_handed_goals INT NULL,
+    short_handed_assists INT NULL,
+    blocked_ VARCHAR NULL,
+    plus_minus INT NULL,
+    even_time_on_ice INT NULL,
+    short_handed_time_on_ice INT NULL,
+    powerplay_time_on_ice INT NULL
+);
+
+DROP TABLE IF EXISTS game_shifts_2;
+CREATE TABLE game_shifts_2 (
+	game_id INT NOT NULL,
+    player_id INT NOT NULL,
+    period INT NULL,
+    shift_start VARCHAR NULL,
+    shift_end VARCHAR NULL
+	);
