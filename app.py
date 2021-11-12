@@ -61,11 +61,11 @@ def home():
 
 @app.route("/Dashboard.html")
 def dashboard():
-    return render_template("dashboard.html")
+    return render_template("Dashboard.html")
 
 @app.route("/Data.html")
 def data():
-    return render_template("data.html")
+    return render_template("Data.html")
 
 
 @app.route("/help")
