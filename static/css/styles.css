@@ -38,7 +38,7 @@ html {
 }
 
 .hero-image {
-    background-image: url("Resources-1/DallasStars.jpeg");
+    background-image: url("DallasStars.jpeg");
     background-color: #cccccc;
     height: 850px;
     background-position: center;
