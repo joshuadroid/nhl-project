@@ -1,0 +1,232 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background: rgb(202, 28, 28);
+  padding: 1rem 8rem;
+  z-index: 1000;
+}
+.navbar .navbar-brand {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+#navbarSupportedContent > ul > li:nth-child(n) > a {
+  color: #fff;
+  font-size: 1.1rem;
+  padding: 0 0.8rem;
+}
+
+#navbarSupportedContent > ul > li:nth-child(n) > a:hover,
+#navbarSupportedContent > ul > li:nth-child(n) > a.active {
+  color: #27c4eb;
+}
+
+#navbarSupportedContent > button {
+  background: #27c4eb;
+  font-weight: 600;
+  padding: 0.4rem 1.4rem;
+  border-radius: 30px;
+}
+
+.hero-image {
+    background-image: url("Resources-1/DallasStars.jpeg");
+    background-color: #cccccc;
+    height: 850px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+
+.home .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.home .text h6 {
+  color: #00bf7f;
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+.home .text h2 {
+  color: #111;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.home .text p {
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+}
+.home .text a {
+  background: #111;
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.about {
+  background: #000;
+}
+
+.about .one {
+  background: midnightblue;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 2rem 1.5rem;
+  border-radius: 7px;
+}
+
+
+
+.model .text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.model .text h6 {
+  color: #00bf7f;
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 2px;
+}
+
+.model .text h2 {
+  color: #111;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.model .text p {
+  font-weight: 400;
+  font-size: 1.1rem;
+  letter-spacing: 0.5px;
+}
+.model .text a {
+  background: #111;
+  font-weight: 500;
+  padding: 0.6rem 1.4rem;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.page-footer {
+  background: rgb(202, 28, 28) !important;
+}
+
+
+
+@media screen and (max-width: 988px) {
+  .navbar {
+    padding: 1rem;
+  }
+
+  #navbarSupportedContent > ul {
+    padding-left: 0.8rem;
+  }
+
+  #navbarSupportedContent > ul > li:nth-child(n) > a {
+    padding: 0.8rem 0;
+  }
+
+  .mid .hero h2 {
+    font-size: 2.5rem;
+  }
+
+  .mid .hero p {
+    font-size: 1rem;
+  }
+
+  .mid .hero a {
+    font-size: 0.9rem;
+  }
+}
+
+@media screen and (max-width: 991.98px) {
+
+  #navbarSupportedContent > ul{
+    width: 100%;
+    float: none !important;
+  }
+  .navbar{
+    background-color: #4AAAA5;
+  }
+  #navbarSupportedContent > ul{
+    background-color: #ffffff;
+    text-align: justify;
+    max-width: 991.98px;
+    margin: auto;
+    background-size: 100%;
+    padding: 0 !important;
+  }
+ 
+  .my-container {
+    margin-top: 70px;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .my-body {
+    background-color: #ffffff;
+  }
+  
+  .outer-grid {
+    display: block;
+    padding: 0 4em;
+  }
+    
+}
+
+
+
+.outer-grid {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1 4em;
+}
+.inner-grid {
+  flex:1;
+  max-width: 50%;
+  padding: 1 4em;
+}
+.inner-grid img {
+  margin-top: 8px;
+  width: 100%;
+  padding: 10px;
+}
+@media screen and (max-width: 991.98px) {
+  .inner-grid {
+     flex: 50%;
+     max-width: 100%;
+  }
+}
+@media screen and (max-width: 991.98px) {
+  .inner-grid {
+     flex: 100%;
+     max-width: 100%;
+  }
+}
