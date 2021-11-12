@@ -65,7 +65,7 @@ def dashboard():
 
 @app.route("/Data.html")
 def data():
-    return render_template("dashboard.html")
+    return render_template("data.html")
 
 
 @app.route("/help")
