@@ -2,6 +2,7 @@ import numpy as np
 import psycopg2
 import pandas as pd
 import requests
+import os
 
 import sqlalchemy
 from sqlalchemy.ext.automap import automap_base
@@ -16,7 +17,13 @@ from flask import Flask, jsonify
 #################################################
 # Create the engine
 # TODO Test and see if this works
-from config import host_name, password, user_name
+
+# # From the config file
+# from config import host_name, password, user_name
+host_name = os.environ['host_name']
+password = os.environ['password']
+user_name = os.environ['user_name']
+
 engine = psycopg2.connect(
     database="nhl_shots",
     user=user_name,
@@ -24,6 +31,7 @@ engine = psycopg2.connect(
     host=host_name,
     port='5432'
 )
+
 
 app = Flask(__name__)
 from flask_sqlalchemy import SQLAlchemy
@@ -59,7 +67,11 @@ def welcome():
 
 @app.route("/test")
 def test_db():
-    from config import host_name, password, user_name
+
+    host_name = os.environ['host_name']
+    password = os.environ['password']
+    user_name = os.environ['user_name']
+
     engine = psycopg2.connect(
     database="nhl_shots",
     user=user_name,
@@ -75,7 +87,10 @@ def test_db():
 @app.route("/player/<id>")
 def shots(id):
 
-    from config import host_name, password, user_name
+    host_name = os.environ['host_name']
+    password = os.environ['password']
+    user_name = os.environ['user_name']
+
     engine = psycopg2.connect(
     database="nhl",
     user=user_name,
@@ -105,7 +120,10 @@ def shots(id):
 @app.route("/team/<id>")
 def teams(id):
 
-    from config import host_name, password, user_name
+    host_name = os.environ['host_name']
+    password = os.environ['password']
+    user_name = os.environ['user_name']
+
     engine = psycopg2.connect(
     database="nhl",
     user=user_name,
@@ -121,7 +139,10 @@ def teams(id):
 @app.route("/team/<id>/info")
 def teams_info(id):
 
-    from config import host_name, password, user_name
+    host_name = os.environ['host_name']
+    password = os.environ['password']
+    user_name = os.environ['user_name']
+
     engine = psycopg2.connect(
     database="nhl",
     user=user_name,
