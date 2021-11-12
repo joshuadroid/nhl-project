@@ -9,7 +9,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
-from flask import Flask, jsonify
+from flask import Flask, jsonify, render_template
 
 
 #################################################
@@ -55,15 +55,30 @@ db = SQLAlchemy(app)
 # Flask Routes
 #################################################
 
-# TODO List out the different routes after I make them
 @app.route("/")
+def home():
+    return render_template("index.html")
+
+@app.route("/Dashboard.html")
+def dashboard():
+    return render_template("dashboard.html")
+
+@app.route("/Data.html")
+def data():
+    return render_template("dashboard.html")
+
+
+@app.route("/help")
 def welcome():
     """List all available api routes."""
     return (
         f"Available Routes:<br/>"
-        f"/test<br/>"
+        f"/player/id<br/>"
         f"/api/v1.0/passengers"
     )
+
+
+
 
 @app.route("/test")
 def test_db():
