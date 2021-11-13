@@ -55,12 +55,7 @@ html {
   margin: auto;
 }
 
-.home .text h6 {
-  color: #00bf7f;
-  font-weight: 800;
-  font-size: 1rem;
-  letter-spacing: 2px;
-}
+
 
 .home .text h2 {
   color: #111;
@@ -95,43 +90,6 @@ html {
   text-align: center;
   padding: 2rem 1.5rem;
   border-radius: 7px;
-}
-
-
-
-.model .text {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
-}
-
-.model .text h6 {
-  color: #00bf7f;
-  font-weight: 800;
-  font-size: 1rem;
-  letter-spacing: 2px;
-}
-
-.model .text h2 {
-  color: #111;
-  font-weight: 700;
-  font-size: 2rem;
-}
-
-.model .text p {
-  font-weight: 400;
-  font-size: 1.1rem;
-  letter-spacing: 0.5px;
-}
-.model .text a {
-  background: #111;
-  font-weight: 500;
-  padding: 0.6rem 1.4rem;
-  border-radius: 30px;
-  text-decoration: none;
-  color: #fff;
 }
 
 .page-footer {
@@ -183,22 +141,6 @@ html {
     background-size: 100%;
     padding: 0 !important;
   }
- 
-  .my-container {
-    margin-top: 70px;
-    box-sizing: border-box;
-    width: 100%;
-  }
-
-  .my-body {
-    background-color: #ffffff;
-  }
-  
-  .outer-grid {
-    display: block;
-    padding: 0 4em;
-  }
-    
 }
 
 
