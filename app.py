@@ -9,7 +9,7 @@ from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine, func
 
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, redirect
 
 
 #################################################
@@ -54,18 +54,22 @@ db = SQLAlchemy(app)
 #################################################
 # Flask Routes
 #################################################
-
 @app.route("/")
+def redirect_to_index():
+    return redirect("/index.html")
+
+
+@app.route("/index.html")
 def home():
     return render_template("index.html")
 
 @app.route("/Dashboard.html")
 def dashboard():
-    return render_template("dashboard.html")
+    return render_template("Dashboard.html")
 
 @app.route("/Data.html")
 def data():
-    return render_template("dashboard.html")
+    return render_template("Data.html")
 
 
 @app.route("/help")
